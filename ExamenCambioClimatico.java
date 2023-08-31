@@ -23,7 +23,7 @@ public class ExamenCambioClimatico {
         Scanner entrada= new Scanner(System.in);
         int respuesta=0;
         int resupuestaCorrecta = 0;
-        String respuestaElegida;
+        
      
         System.out.println("Examen sobre el cambio climatico");
         
@@ -42,23 +42,23 @@ public class ExamenCambioClimatico {
         
         switch(respuesta){
             case 1:
-                respuestaElegida= "a";
+               System.out.println("Tu respuesta fue inciso a)");
                 break;
             
             case 2:
-                respuestaElegida= "b";
+                System.out.println("Tu respuesta fue inciso b)");
                 break;
                 
             case 3:
-                respuestaElegida= "c";
+                System.out.println("Tu respuesta fue inciso c)");
                 break;
                 
             case 4:
-                respuestaElegida= "d";
+                System.out.println("Tu respuesta fue inciso d)");
                 break;
                 
             default:
-                respuestaElegida="Respuesta invalida";  
+                System.out.println("Tu respuesta no es valida");  
                 
         }
         
@@ -79,23 +79,23 @@ public class ExamenCambioClimatico {
         
         switch(respuesta){
             case 1:
-                respuestaElegida= "a";
+                System.out.println("Tu respuesta fue inciso a)");
                 break;
             
             case 2:
-                respuestaElegida= "b";
+                System.out.println("Tu respuesta fue inciso b)");
                 break;
                 
             case 3:
-                respuestaElegida= "c";
+                System.out.println("Tu respuesta fue inciso c)");
                 break;
                 
             case 4:
-                respuestaElegida= "d";
+                System.out.println("Tu respuesta fue inciso d)");
                 break;
                 
             default:
-                respuestaElegida="Respuesta invalida";  
+                System.out.println("Tu respuesta fue invaalida");
                 
         }
         
@@ -115,23 +115,23 @@ public class ExamenCambioClimatico {
         
         switch(respuesta){
             case 1:
-                respuestaElegida= "a";
+                System.out.println("Tu respuesta fue inciso a)");
                 break;
             
             case 2:
-                respuestaElegida= "b";
+                System.out.println("Tu respuesta fue inciso b)");
                 break;
                 
             case 3:
-                respuestaElegida= "c";
+                System.out.println("Tu respuesta fue inciso c)");
                 break;
                 
             case 4:
-                respuestaElegida= "d";
+                System.out.println("Tu respuesta fue inciso d)");
                 break;
                 
             default:
-                respuestaElegida="Respuesta invalida";  
+                System.out.println("Tu respuesta fue invalida");
                 
         }
         
@@ -152,23 +152,23 @@ public class ExamenCambioClimatico {
         
         switch(respuesta){
             case 1:
-                respuestaElegida= "a";
+                System.out.println("Tu respuesta fue inciso a)");
                 break;
             
             case 2:
-                respuestaElegida= "b";
+                System.out.println("Tu respuesta fue inciso b)");
                 break;
                 
             case 3:
-                respuestaElegida= "c";
+                System.out.println("Tu respuesta fue inciso c)");
                 break;
                 
             case 4:
-                respuestaElegida= "d";
+                System.out.println("Tu respuesta fue inciso d)");
                 break;
                 
             default:
-                respuestaElegida="Respuesta invalida";  
+                System.out.println("Tu respuesta fue invalida");
                 
         }
         
@@ -189,23 +189,23 @@ public class ExamenCambioClimatico {
         
         switch(respuesta){
             case 1:
-                respuestaElegida= "a";
+                System.out.println("Tu respuesta fue inciso a)");
                 break;
             
             case 2:
-                respuestaElegida= "b";
+                System.out.println("Tu respuesta fue inciso b)");
                 break;
                 
             case 3:
-                respuestaElegida= "c";
+                System.out.println("Tu respuesta fue inciso c)");
                 break;
                 
             case 4:
-                respuestaElegida= "d";
+                System.out.println("Tu respuesta fue inciso d)");
                 break;
                 
             default:
-                respuestaElegida="Respuesta invalida";  
+                System.out.println("Tu respuesta fue invalida");
                 
         }
         
